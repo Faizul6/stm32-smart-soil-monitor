@@ -15,7 +15,7 @@ This project integrates multiple embedded subsystems into a single application t
 * **Real-time monitoring:** Runs a structured control loop to continuously read, classify, and display data.
 
 <p align="center">
-  <img src="images/system-setup.JPEG" width="700">
+  <img src="images/system-setup.jpeg" width="700">
 </p>
 
 ---
