@@ -15,7 +15,7 @@ This project integrates multiple embedded subsystems into a single application t
 * **Real-time monitoring:** Runs a structured control loop to continuously read, classify, and display data.
 
 <p align="center">
-  <img src="images/system-setup.jpg" width="700">
+  <img src="images/system-setup.JPEG" width="700">
 </p>
 
 ---
@@ -68,11 +68,11 @@ The LCD continuously displays the real-time environmental data in the following 
 * **Language:** Embedded C using HAL drivers
 
 <p align="center">
-  <img src="images/different-project-environment.jpg" width="700">
+  <img src="images/different-project-environment.jpeg" width="700">
 </p>
 
 <p align="center">
-  <img src="images/serial-output-stable.jpg" width="700">
+  <img src="images/serial-output-stable.jpeg" width="700">
 </p>
 
 ---
@@ -82,7 +82,7 @@ The LCD continuously displays the real-time environmental data in the following 
 **DHT11 Timing Instability:** The sensor frequently threw "not responding" errors due to the timing sensitivity of its protocol. I solved this by implementing a precise microsecond delay using hardware timer `TIM2` and adding robust timeout and retry logic.
 
 <p align="center">
-  <img src="images/serial-output-debug.jpg" width="700">
+  <img src="images/serial-output-debug.jpeg" width="700">
 </p>
 
 **LCD Initialization:** The LCD initially showed only solid black boxes due to an incorrect initialization sequence. I resolved this by researching and implementing the correct 4-bit initialization sequence and fine-tuning the enable pulse delays.
