@@ -15,7 +15,7 @@ This project integrates multiple embedded subsystems into a single application t
 * **Real-time monitoring:** Runs a structured control loop to continuously read, classify, and display data.
 
 <p align="center">
-  <img src="images/system_setup.jpg" width="700">
+  <img src="images/system-setup.jpg" width="700">
 </p>
 
 ---
@@ -72,7 +72,7 @@ The LCD continuously displays the real-time environmental data in the following 
 </p>
 
 <p align="center">
-  <img src="images/serial_output_stable.jpg" width="700">
+  <img src="images/serial-output-stable.jpg" width="700">
 </p>
 
 ---
