@@ -1,0 +1,20 @@
+# STM32CubeIDE
+Debug/
+Release/
+build/
+.settings/
+*.launch
+
+# Generated / temp
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.hex
+*.bin
+*.list
+
+# OS / editor
+Thumbs.db
+.DS_Store
