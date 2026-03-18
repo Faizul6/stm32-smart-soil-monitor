@@ -1,4 +1,4 @@
-\# STM32 Smart Soil Monitoring System
+# STM32 Smart Soil Monitoring System
 
 
 
@@ -6,7 +6,7 @@ This repository features my work on a real-time embedded system built using the 
 
 
 
-\---
+---
 
 
 
@@ -18,7 +18,7 @@ This project integrates multiple embedded subsystems into a single application t
 
 
 
-\* \*\*Analog signal acquisition:\*\* Uses ADC for the soil moisture sensor.
+* \*\*Analog signal acquisition:\*\* Uses ADC for the soil moisture sensor.
 
 \* \*\*Digital sensor communication:\*\* Interfaces with a DHT11 for temperature and humidity.
 
